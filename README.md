@@ -9,5 +9,5 @@
 1. Power BI store analysis report
    This is a store analysis report
 
-   [Dashboard Link]()
+   [Dashboard Link](https://github.com/BobyNegi/Disney.git)
    ![Dashboard Image]()
